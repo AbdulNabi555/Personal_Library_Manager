@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Story",
+        "read": true
+    },
+    {
+        "title": "Book",
+        "author": "Abdul Nabi",
+        "year": "4949",
+        "genre": "4994",
+        "read": true
+    }
+]
